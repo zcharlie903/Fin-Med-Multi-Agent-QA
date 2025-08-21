@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic>=2
+langchain
+langchain-community
+langchain-openai
+langchain-qdrant
+qdrant-client
+redis
+tiktoken
+numpy
+pandas
+duckdb
+httpx
+jinja2

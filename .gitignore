@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Envs
+.venv/
+venv/
+env/
+
+# Data & runs
+data/
+.qdrant/
+redis-data/
+artifacts/
+logs/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
